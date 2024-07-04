@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sistem Informasi Reservasi Hotel</string>
+    <string name="pemesanan">Pemesanan</string>
+    <string name="tamu">Tamu</string>
+    <string name="kamar">Kamar</string>
+    <string name="title_welcome">Sistem Informasi Reservasi Hotel</string>
+    <string name="title_guest">Daftar Tamu</string>
+    <string name="daftar_pemesanan">Daftar Pemesanan</string>
+    <string name="daftar_kamar">Daftar Kamar</string>
+    <string-array name="jenis_kamar">
+        <item>Standard</item>
+        <item>Superior</item>
+        <item>Deluxe</item>
+        <item>Suite</item>
+    </string-array>
+</resources>
